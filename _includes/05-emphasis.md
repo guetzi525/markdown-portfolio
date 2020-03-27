@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Things that I am good at:
+
+###### __Programs__
+- _Horner_
+- PHP
+- Github
+
+###### __Skills__
+- Building Robots
+- Electrical
+- *Jeeps*
